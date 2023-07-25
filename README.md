@@ -21,7 +21,7 @@ Login into your workspace and install application.
 3. Create your first GITHUB Credentials.
 
 
-4. Create your first github repository folder structure and branch to push your objects.
+4. Create your first github repository, folder structure and branch to push your objects.
 
 
 5. Move your scripts seamlessly to GITHUB.
