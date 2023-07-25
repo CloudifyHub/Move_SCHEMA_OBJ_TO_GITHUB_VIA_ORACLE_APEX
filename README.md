@@ -16,6 +16,7 @@ GRANT EXECUTE ON DBMS_CLOUD_REPO TO YOUR_SCHEMA>; --where this application will 
 
 GRANT EXECUTE ON DBMS_CLOUD TO YOUR_SCHEMA;
 
+Login into your workspace and install application.
 
 3. Create your first GITHUB Credentials.
 
